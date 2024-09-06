@@ -54,8 +54,8 @@ function App() {
         <Navigation cart={cart}></Navigation>
         <Banner></Banner>
         <Routes>
-          <Route path='/' element={<Body addItems={addItems} products={filteredProducts} filterFunction={filterFunction}></Body>}></Route>
-          <Route path='/add' element={<AddProduct AddProductFunction={AddProductFunction}></AddProduct>}></Route>
+          <Route path='/react_project' element={<Body addItems={addItems} products={filteredProducts} filterFunction={filterFunction}></Body>}></Route>
+          <Route path='/react_project/add' element={<AddProduct AddProductFunction={AddProductFunction}></AddProduct>}></Route>
         </Routes>
       </BrowserRouter>
       <Footer></Footer>
