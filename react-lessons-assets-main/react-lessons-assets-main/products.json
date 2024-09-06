@@ -1,0 +1,60 @@
+
+[
+    {
+        "id": 1,
+        "name": "Dauphine BB Belt",
+        "price": 85000,
+        "classification": "bag",
+        "img": "https://kodegoreact.github.io/react-lessons-assets/imgs/bag1.png",
+        "description": "Sleek and sophisticated, this leather tote offers ample space and a minimalist design, perfect for work or casual outings." 
+    },
+    {
+        "id": 2,
+        "name": "Multi Pochette",
+        "price": 125000,
+        "classification": "bag",
+        "img": "https://kodegoreact.github.io/react-lessons-assets/imgs/bag2.png",
+        "description": "Stylish and sustainable, this backpack features multiple pockets and durable canvas, ideal for everyday adventures." 
+    },
+    {
+        "id": 3,
+        "name": "Neo Noe",
+        "price": 85000,
+        "classification": "bag",
+        "img": "https://kodegoreact.github.io/react-lessons-assets/imgs/bag3.png",
+        "description": "Compact and chic, this clutch is adorned with shimmering accents, providing a touch of glamour for your special night out." 
+    },
+    {
+        "id": 4,
+        "name": "Zoe Compact Wallet",
+        "price": 35000,
+        "classification": "wallet",
+        "img": "https://kodegoreact.github.io/react-lessons-assets/imgs/wallet1.png",
+        "description": "Elegant and compact, this leather wallet offers multiple card slots and a secure money clip, perfect for those who value style and functionality." 
+    },
+    {
+        "id": 5,
+        "name": "Clea Wallet",
+        "price": 37000,
+        "classification": "wallet",
+        "img": "https://kodegoreact.github.io/react-lessons-assets/imgs/wallet2.png",
+        "description": "Stylish and secure, this wallet features RFID-blocking technology to protect your cards, plus ample space for cash and essential IDs." 
+    },
+    {
+        "id": 6,
+        "name": "Frontrow White Floral",
+        "price": 30000,
+        "classification": "shoes",
+        "img": "https://kodegoreact.github.io/react-lessons-assets/imgs/shoes1.png",
+        "description": "Timeless and comfortable, these leather loafers offer a sleek design and cushioned insole, perfect for both formal and casual wear." 
+    },
+    {
+        "id": 7,
+        "name": "Revival White Embossed",
+        "price": 37000,
+        "classification": "shoes",
+        "img": "https://kodegoreact.github.io/react-lessons-assets/imgs/shoes2.png",
+        "description": "Lightweight and breathable, these running sneakers provide excellent support and grip, ideal for athletes and fitness enthusiasts." 
+    }
+
+]
